@@ -1,5 +1,5 @@
 # Snowball-Exotic-Option-Pricing
-This is the Monte Carlo Simulation in Python for the Snowball Exotic Option.
+This is the Monte Carlo Simulation in Python for the Snowball Exotic Option Pricing.
 The simulation achieve:
 
 Probability of Knock-out is 65.90 %
